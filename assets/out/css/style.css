@@ -1,0 +1,266 @@
+			@media screen and (max-width: 800px) {
+			    .mrg
+			{
+				margin-left: 0px !important;
+			}
+			}			
+
+			.head
+			{
+				background: none repeat scroll 0% 0% #FFF;
+				padding: 5px;
+			}
+			body {
+				margin: 0;
+				padding:0;
+				background:#f5f5f5;
+			}
+			.video video { 
+				position: fixed;
+				top: 50%;
+				left: 50%;
+				min-width: 100%;
+				min-height: 100%;
+				width: auto;
+				height: auto;
+				z-index: -100;
+				transform: translateX(-50%) translateY(-50%);
+				background: url('../../demosthenes.info/assets/images/polina.html') no-repeat;
+				background-size: cover;
+				transition: 1s opacity;
+			}
+			.stopfade { 
+			        opacity: .5;
+			}
+			.search
+			{
+                               
+			}
+			.search select
+			{
+				background: none repeat scroll 0% 0% #FFF;
+				border: 1px solid rgb(213, 213, 213);
+				border-radius: 5px;
+			}
+			.btn
+			{
+				border-radius: 27px;
+				border: none;
+				background: #FF5200;
+				color: white;
+				font-weight: bold;
+				width:110px;
+			}
+			.pd
+			{
+				padding: 12px;
+				width: 100%;
+				margin: 5px 0px;
+			}
+			.icon
+			{
+				text-align: center;
+				margin: 40px 5px;
+			}
+			.btn_mr
+			{
+				margin-top:15px;
+			}
+			.cnt
+			{
+				text-align:center;
+			}
+			.dtr
+			{
+				
+			}
+			.quick
+			{
+				list-style: outside none none;
+				margin-left: -25px;
+			}
+			.quick li
+			{
+				padding: 5px;
+				text-align: center;
+				background: none repeat scroll 0% 0% #393939;
+				margin: 10px;
+				border-radius: 15px;
+			}
+			.quick a
+			{
+				text-decoration:none;
+				color:white;
+			}
+			.quick li:hover
+			{
+				background:#FF5200;
+			}
+			.icon_hd
+			{
+				color: #006FFF;
+				width: 150px;
+				margin: 0px auto;
+				padding: 5px;
+				font-weight: bold;
+				font-size:21px;
+			}
+			.icon img
+			{
+				margin-top:15px;
+			}
+			.tab_pd
+			{
+				padding:8px;
+				color:white;
+			}
+			
+			.nav-tabs > li > a
+			{
+				font-weight:bold;
+			}
+
+			.nav-tabs > li.active > a
+    			{
+				background:#FF5200 !important;
+				color:white !important;
+			}
+			.d-iconedBulletPoints 
+			{
+			        padding-top: 20px;
+			}
+			.d-point {
+			        padding:7px 5px;
+			        color: #FFF;
+			}
+			.row_icon ul
+			{
+				list-style: outside none none;
+			}
+			.footer
+			{
+				background: none repeat scroll 0% 0% #242424;
+				padding: 25px;
+				color: white;
+			}
+			.tab-pane form
+			{
+				margin-top:25px;
+				margin-left:-17px;
+			}
+			.link
+			{
+				padding: 55px 0px 20px 0px;
+			}
+			.link_hd
+			{
+				padding: 5px;
+				font-weight: bold;
+				color: #D5D5D5;
+				margin-bottom: 15px;
+				text-align: center;
+				font-size: 20px;
+			}
+			.img_hd
+			{
+				padding: 10px;
+				color: white;
+				font-weight: bold;
+				font-size: 17px;
+			}
+			.cnt img
+			{
+				border-radius: 18px;
+				border: 3px solid;
+			}
+			.cnt img:hover
+			{
+				border-color:#FF5200;
+			}
+			.logo
+			{
+				text-align:center;
+			}
+			#menu,
+#menu ul {
+    list-style: none;
+}
+#menu {
+    float: left;
+}
+#menu > li {
+    float: left;
+}
+#menu li a {
+font-family: 'Lato', Arial, Verdana;
+display: block;
+    height: 2em;
+    line-height: 2.3em;
+    padding: 0 1.35em;
+	 text-transform: uppercase;
+    text-decoration: none;
+	-webkit-transition: all 0.2s linear;
+}
+#menu ul {
+    position: absolute;
+    display: none;
+z-index: 999;
+}
+#menu ul li a {
+    width: 140px;
+	margin-left:-45px;
+	background:#FFFFFF;
+}
+#menu li:hover ul {
+    display: block;
+	background:#FFFFFF;
+}
+
+#menu ul li a:hover {
+padding-left:-5px;
+background:#FF5200;
+}
+			.support
+			{
+				
+				padding: 17px;
+				font-weight: bold;
+				line-height: 25px;
+				text-align:center;
+			}
+			.support span
+			{
+				color:red;
+			}
+			.copy
+			{
+				
+			}
+			.social
+			{
+				height:45px;
+			}
+			.social ul
+			{
+				list-style: outside none none;
+			}
+			.social a
+			{
+				text-decoration:none;
+				color:white;
+			}
+			.social li
+			{
+				float: left;
+				padding: 0px 1px;
+				margin:2px;
+			}
+			.mrg
+			{
+				margin-bottom: 30px;
+				    margin-top: 10px;
+				    margin-left: -34px;
+				    overflow: auto;
+			}
+			
+		
